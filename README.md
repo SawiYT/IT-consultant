@@ -17,7 +17,7 @@ IT Consultant is a sleek, frontend-focused web project built with Next.js, Tailw
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="public/photo-gallery.png" style="width: 45%;" alt="photo gallery">
-    <img src="public/github-globe.png" style="width: 55%;" alt="Blog Szkolny">
+    <img src="public/github-globe.png" style="width: 50%;" alt="Blog Szkolny">
 </div>
 
 ## ℹ FAQ
