@@ -13,6 +13,13 @@ IT Consultant is a sleek, frontend-focused web project built with Next.js, Tailw
 - Built with Next.js & Tailwind CSS – Ensuring high performance and scalability.
 - Fully Responsive Design – Optimized for all devices, from mobile to desktop.
 
+## 📸 Zrzuty Ekranu
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="public/photo-gallery.png" style="width: 45%;" alt="photo gallery">
+    <img src="public/github-globe.png" style="width: 45%;" alt="Blog Szkolny">
+</div>
+
 ## ℹ FAQ
 
 ### What is IT Consultant?
